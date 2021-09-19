@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json"},
         features = "src/test/resources/features",
         glue= "com/whenIWork/step_definitions",
-        tags =  "@wip"
+        tags =  ""
 )
 public class CukesRunner {
 
